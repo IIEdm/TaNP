@@ -16,9 +16,9 @@ python == 3.6.3
      scipy == 1.3.1  
      scikit-learn == 0.21.3
 ## Datasets 
-MoviesLens-1M is provided by MeLU, and you can find it from https://github.com/hoyeoplee/MeLU.  
-   Last.FM is provided by MKR, and you can find it from https://github.com/hwwang55/MKR.  
-      Gowalla is provided by NGCF, and you can find it from https://github.com/xiangwang1223/neural_graph_collaborative_filtering.
+MoviesLens-1M is provided by MeLU, and you can find it from [here](https://github.com/hoyeoplee/MeLU).  
+  Last.FM is provided by MKR, and you can find it from [here](https://github.com/hwwang55/MKR).  
+      Gowalla is provided by NGCF, and you can find it from [here](https://github.com/xiangwang1223/neural_graph_collaborative_filtering).
 ## How to use
 The utils/loader is used for data preprocessing, and you can customize this part for your own data.  
   Use the following commands for running a sub-dataset:  
